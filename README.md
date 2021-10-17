@@ -1,1 +1,2 @@
-# Proj-1-Kowshi
+#Proj 1 Kowshi
+Kowshiga.A
